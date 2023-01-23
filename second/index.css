@@ -1,0 +1,26 @@
+body{
+   /*margin:25px;*/
+   text-align:center;
+   font-familya
+ }
+.img{
+  width:30%
+}
+.card{
+  border: 1px dotted red;
+  border-bottom:5px solid blue; 
+  padding:20px;
+  display:flex;
+  justify-content:space-around;
+  width:408px;
+  margin: 30px auto;
+  background:lightblue;
+  color:red;
+
+
+  }
+.feujio{
+  border: 1px dotted lightblue;
+  
+  
+}
